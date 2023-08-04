@@ -1,0 +1,14 @@
+@charset "UTF-8";
+button{
+	border:none;
+	background: #4070F4;
+    padding: 16px 30px;
+    color: #fff;
+    border-radius: 6px;
+    transition: 0.2s;
+    	
+}
+button2:hover{
+	box-shadow: 0 0 0 4px #fff,
+	0 0 0 8px #4070F4;
+}
